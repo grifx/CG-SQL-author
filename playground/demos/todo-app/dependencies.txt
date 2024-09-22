@@ -1,0 +1,4 @@
+./vendor/hashmap.c https://raw.githubusercontent.com/tidwall/hashmap.c/v0.8.0/hashmap.c 3181a7786467f458e54797154e09f347f91f07a6
+./vendor/hashmap.h https://raw.githubusercontent.com/tidwall/hashmap.c/v0.8.0/hashmap.h 62f54693f2d375d78e4fa92b6d9fc0e8796f1347
+./vendor/mongoose.c https://raw.githubusercontent.com/cesanta/mongoose.c/v0.8.0/mongoose.c 78fb38f212fa49029aff24c669a39648d9b4e68b
+./vendor/mongoose.h https://raw.githubusercontent.com/cesanta/mongoose.c/v0.8.0/mongoose.h 78fb38f212fa49029aff24c669a39648d9b4e68b
